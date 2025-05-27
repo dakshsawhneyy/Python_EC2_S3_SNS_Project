@@ -4,13 +4,13 @@ This project automates the lifecycle of AWS services using Python and Boto3. It 
 
 ## Features
 
-✅ Launch EC2 instance  
-✅ Create and delete S3 bucket  
-✅ Upload and download files to/from S3  
-✅ Create and confirm SNS topic subscription via email  
-✅ Send notification after confirmation  
-✅ Terminate EC2 instance  
-✅ Clean and readable Python code  
+🟣 Launch EC2 instance  
+🟣 Create and delete S3 bucket  
+🟣 Upload and download files to/from S3  
+🟣 Create and confirm SNS topic subscription via email  
+🟣 Send notification after confirmation  
+🟣 Terminate EC2 instance  
+🟣 Clean and readable Python code  
 
 ## Requirements
 
@@ -67,4 +67,4 @@ project-folder/
 
 ## Author
 
-Daksh Sawhney — Built with 💪 and Python 🚀
+Daksh Sawhney — Built with 💪 and Python 
